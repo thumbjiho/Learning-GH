@@ -12,6 +12,7 @@ struct LearnGHApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+            
         }
     }
 }
